@@ -1,5 +1,11 @@
 # roulette
 
+README
+
+Jennifer Quay Minnich
+09/23/19
+Lab 5: Loops, Conditionals, ofstream- writes data to text file
+
 Purpose_
 
 Use this program to test your luck and play a few spins of roulette!
@@ -12,5 +18,7 @@ The C++ Roulette Wheel has the numbers 0-36 on it.
 2.	Bet on odd or even.
 3.	Bet on a dozen (1-12), (13-24), (25-36).
     The number zero does not count for odd or even, but can count as a number bet.
+
+Conclusions_
 
 Game results are written to a text file. 
