@@ -1,0 +1,26 @@
+
+ Jennifer Q Minnich's Roulette Program
+ Email: jminnich@cnm.edu 
+ ***********************************************************************************
+ Game report: 
+
+Game number: 1
+ Roulette spin: 33
+You bet on 2
+ & you won $0.00
+Game number: 2
+ Roulette spin: 35
+You bet on Odd
+ & you won $1000.00
+Game number: 3
+ Roulette spin: 24
+You bet on the range 13 - 24
+ & you won $15000.00
+Game number: 4
+ Roulette spin: 6
+You bet on 24
+ & you won $0.00
+
+ Your total winnings for all games were $16000.00
+ Thanks for playing!
+
