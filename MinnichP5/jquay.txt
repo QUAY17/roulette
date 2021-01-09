@@ -1,6 +1,5 @@
 
  Jennifer Q Minnich's Roulette Program
- Email: jminnich@cnm.edu 
  ***********************************************************************************
  Game report: 
 
