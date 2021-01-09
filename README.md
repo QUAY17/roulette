@@ -1,10 +1,12 @@
 # roulette
 
 Purpose_
-Use this program to test your luck and play a few spins of roulette!"
-You will place a bet, spin the wheel, and see if you can take home any money."
+
+Use this program to test your luck and play a few spins of roulette!
+You will place a bet, spin the wheel, and see if you can take home any money.
 
 Instructions_
+
 The C++ Roulette Wheel has the numbers 0-36 on it.
 1.  Bet on a number.
 2.	Bet on Odd or Even.
